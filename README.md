@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pritish-25
 - 👀 I’m interested in learning different programming languages
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 
 
 <!---
