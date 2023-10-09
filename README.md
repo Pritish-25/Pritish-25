@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pritish-25
+- 👋 Hi, I’m Pritish
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning Python
 
